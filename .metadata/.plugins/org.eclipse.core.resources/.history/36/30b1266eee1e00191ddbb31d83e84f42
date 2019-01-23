@@ -1,0 +1,5 @@
+package com.cg.app.configclient.controller;
+
+public class HelloWorldController {
+
+}
